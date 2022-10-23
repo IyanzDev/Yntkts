@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'Owner'
+global.ownername = 'Agr'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6281573899087']
+global.owner = ['6283110802523']
 global.premium = ['']
-global.packname = 'Rehanzz'
+global.packname = 'Agrzz Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
@@ -45,7 +45,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 100
 }
-global.thumb = fs.readFileSync('./IMG-20221022-WA0000.jpg')
+global.thumb = fs.readFileSync('./IMG-20221023-WA0006.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
 let file = require.resolve(__filename)
